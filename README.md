@@ -29,6 +29,4 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=CaptainBoulbi&theme=great-gatsby&show_icons=true" alt="CaptainBoulbi's GitHub Stats" />
 </a>
 
----
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainBoulbi&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
