@@ -12,17 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
----
 
 ### Hi my name is Hamza NANAHA👋
----
+
 * 🌍  I'm based in Toulouse
 * ✉️  You can contact me at [hamza.nanaha@hotmail.com](mailto:hamza.nanaha@hotmail.com)
 * 🚀  I'm currently student of [Bachelor in Computer Science specialized in data](https://www.univ-tlse3.fr/but-specialite-informatique)
 
 ## My skills
 
----
+
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
