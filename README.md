@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **CaptainBoulbi/CaptainBoulbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+
 ### Hi my name is Hamza NANAHA👋
 * 🌍  I'm based in Toulouse
 * ✉️  You can contact me at [hamza.nanaha@hotmail.com](mailto:hamza.nanaha@hotmail.com)
