@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## My skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,ada)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,ada,bash,cpp,py,latex)](https://skillicons.dev)
 
 ## Github Stats
 
