@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/CaptainBoulbi">
   <img src="https://github-readme-stats.vercel.app/api?username=CaptainBoulbi&theme=great-gatsby&show_icons=true" alt="CaptainBoulbi's GitHub Stats" />
-  <hr>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainBoulbi&theme=great-gatsby" />
 </a>
 
