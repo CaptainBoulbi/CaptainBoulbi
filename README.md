@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/CaptainBoulbi">
   <img src="https://github-readme-stats.vercel.app/api?username=CaptainBoulbi&theme=great-gatsby&show_icons=true" alt="CaptainBoulbi's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainBoulbi&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainBoulbi&theme=great-gatsby" />
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainBoulbi&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
