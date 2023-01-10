@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## My skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,ada,bash,cpp,py,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,cpp,bash,latex)](https://skillicons.dev)
 
-## Github Stats
+## Github Stats,
 
 <a href="https://github.com/NeikoStream">
   <img src="https://github-readme-stats.vercel.app/api?username=CaptainBoulbi&theme=codeSTACKr&show_icons=true" alt="CaptainBoulbi's GitHub Stats" />
