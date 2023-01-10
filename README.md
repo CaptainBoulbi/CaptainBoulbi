@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi my name is Hamza NANAHA👋
+### Hi I'm Hamza NANAHA👋
 
 * 🌍  I'm based in Toulouse
 * ✉️  You can contact me at [hamza.nanaha@hotmail.com](mailto:hamza.nanaha@hotmail.com)
@@ -23,11 +23,8 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
-
----
+## Github Stats
 
 <a href="https://github.com/NeikoStream">
   <img src="https://github-readme-stats.vercel.app/api?username=NeikoStream&theme=codeSTACKr&show_icons=true" alt="NeikoStream's GitHub Stats" />
 </a>
-
----
