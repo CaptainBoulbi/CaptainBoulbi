@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 ## Github Stats
 
 <a href="https://github.com/NeikoStream">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeikoStream&theme=codeSTACKr&show_icons=true" alt="NeikoStream's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CaptainBoulbi&theme=codeSTACKr&show_icons=true" alt="CaptainBoulbi's GitHub Stats" />
 </a>
