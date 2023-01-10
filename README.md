@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,cpp,bash,py,latex)](https://skillicons.dev)
 
-## Github Stats,
+## Github Stats
 
 <a href="https://github.com/CaptainBoulbi">
   <img src="https://github-readme-stats.vercel.app/api?username=CaptainBoulbi&theme=codeSTACKr&show_icons=true" alt="CaptainBoulbi's GitHub Stats" />
