@@ -23,12 +23,14 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,bash,py,java)](https://skillicons.dev)
 
-## Stats
+## Github Stats
 
 <a href="https://github.com/CaptainBoulbi">
   <img src="https://github-readme-stats.vercel.app/api?username=CaptainBoulbi&theme=great-gatsby&show_icons=true" alt="CaptainBoulbi's GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainBoulbi&theme=great-gatsby" alt="CaptainBoulbi's GitHub most used languages"/>
 </a>
+
+## General Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/wakatime/?username=CaptainBoulbi&langs_count=16)](https://github.com/CaptainBoulbi/CaptainBoulbi)
