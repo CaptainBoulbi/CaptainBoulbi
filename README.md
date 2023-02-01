@@ -30,5 +30,4 @@ Here are some ideas to get you started:
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainBoulbi&theme=great-gatsby" alt="CaptainBoulbi's GitHub most used languages"/>
 </a>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@7dc1c098-1cae-4631-8fb0-b92777968a61/b823417e-463b-4a36-a1b0-ca261a7398f2.svg"></embed></figure>
