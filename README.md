@@ -30,4 +30,5 @@ Here are some ideas to get you started:
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainBoulbi&theme=great-gatsby" alt="CaptainBoulbi's GitHub most used languages"/>
 </a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/wakatime/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
