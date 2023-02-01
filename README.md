@@ -31,4 +31,4 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainBoulbi&theme=great-gatsby" alt="CaptainBoulbi's GitHub most used languages"/>
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/wakatime/?username=CaptainBoulbi&langs_count=8)](https://github.com/CaptainBoulbi/CaptainBoulbi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/wakatime/?username=CaptainBoulbi&langs_count=16)](https://github.com/CaptainBoulbi/CaptainBoulbi)
