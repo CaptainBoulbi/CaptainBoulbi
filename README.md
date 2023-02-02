@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ## Github Stats
 ---
 
-  <img src="https://github-readme-stats.vercel.app/api?username=CaptainBoulbi&theme=great-gatsby&show_icons=true&langs_count=64" alt="CaptainBoulbi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CaptainBoulbi&theme=great-gatsby&show_icons=true" alt="CaptainBoulbi's GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainBoulbi&theme=great-gatsby&langs_count=64" alt="CaptainBoulbi's GitHub most used languages"/>
 
