@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## My skills
 ---
 
-![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,bash,py,java)
+![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,py,java,bash)
 
 ## Github Stats
 ---
