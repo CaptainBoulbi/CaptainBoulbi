@@ -34,3 +34,5 @@ Here are some ideas to get you started:
 ## General Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/wakatime/?username=captaincoulbi)](https://github.com/captaincoulbi/captainboulbi)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/wakatime/?username=captainboulbi&layout=compact&theme=dracula&hide_border=true&langs_count=6&custom_title=Stats)
