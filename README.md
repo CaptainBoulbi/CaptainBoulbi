@@ -33,8 +33,4 @@ Here are some ideas to get you started:
 
 ## General Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/wakatime/?username=_n3m0)](https://github.com/captainboulbi/captainboulbi)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/wakatime/?username=_n3m0&layout=compact&theme=great-gatsby&langs_count=64&custom_title=Stats)
-
-![CaptainBoulbi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=_n3m0&theme=great-gatsby&langs_count=64&custom_title=Coding%20Stats)
