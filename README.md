@@ -14,23 +14,25 @@ Here are some ideas to get you started:
 -->
 
 ### Hi I'm Hamza NANAHA👋
+---
 
 * 🌍  I'm based in Toulouse
 * ✉️  You can contact me at [hamza.nanaha@hotmail.com](mailto:hamza.nanaha@hotmail.com)
 * 🚀  I'm currently student of [Bachelor in Computer Science specialized in data](https://www.univ-tlse3.fr/but-specialite-informatique)
 
 ## My skills
+---
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,bash,py,java)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,bash,py,java)
 
 ## Github Stats
+---
 
-<a href="https://github.com/CaptainBoulbi">
   <img src="https://github-readme-stats.vercel.app/api?username=CaptainBoulbi&theme=great-gatsby&show_icons=true" alt="CaptainBoulbi's GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainBoulbi&theme=great-gatsby" alt="CaptainBoulbi's GitHub most used languages"/>
-</a>
 
 ## General Stats
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/wakatime/?username=_n3m0&layout=compact&theme=great-gatsby&langs_count=64&custom_title=Stats)
