@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ---
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,py,java,bash,linux,git)
+![My Skills](https://skillicons.dev/icons?i=cpp,c,git,linux,java,bash,py,html,css)
 
 ## Github Stats
 ---
