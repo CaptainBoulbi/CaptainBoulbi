@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning .../home/cptbb/documents/agenda
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## My skills
 ---
 
-![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,py,java,bash)
+![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,py,java,bash,linux,git)
 
 ## Github Stats
 ---
