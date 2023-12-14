@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ## Website
 
 You can learn more about me and what I do on my [personal website](https://www.n3m0.fr/).
+
 You can also see all the cool stuff that we do in my team [here](https://captainboulbi.github.io/).
 
 ## My skills
