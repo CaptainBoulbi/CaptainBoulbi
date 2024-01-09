@@ -29,7 +29,7 @@ You can also see all the cool stuff that we do in my team [here](https://captain
 ## My skills
 ---
 
-![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,py,java,bash,linux,git,sql)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,linux,git,docker,java,py,sql,html,css,php)
 
 ## Github Stats
 ---
