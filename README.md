@@ -39,5 +39,5 @@ You can also see all the cool stuff that we do in my team [here](https://captain
 ![Top Langs](https://github-readme-stats.vercel.app/api/wakatime/?username=_N3m0&layout=compact&theme=great-gatsby&langs_count=8&custom_title=Stats)
 
   <img src="https://github-readme-stats.vercel.app/api?username=CaptainBoulbi&theme=great-gatsby&show_icons=true" alt="CaptainBoulbi's GitHub Stats" />
-  <br>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainBoulbi&theme=great-gatsby&langs_count=5" alt="CaptainBoulbi's GitHub most used languages"/>
