@@ -31,14 +31,13 @@ You can also see all the cool stuff that we do in my team [here](https://captain
 
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,linux,git,docker,java,py,html,css,php)
 
-## Github Stats
+## Stats
 ---
+
+[![wakatime](https://wakatime.com/badge/user/8410736e-40dc-46fa-b9d9-a5d64fae6a85.svg)](https://wakatime.com/@8410736e-40dc-46fa-b9d9-a5d64fae6a85)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/wakatime/?username=_N3m0&layout=compact&theme=great-gatsby&langs_count=8&custom_title=Stats)
 
   <img src="https://github-readme-stats.vercel.app/api?username=CaptainBoulbi&theme=great-gatsby&show_icons=true" alt="CaptainBoulbi's GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainBoulbi&theme=great-gatsby&langs_count=5" alt="CaptainBoulbi's GitHub most used languages"/>
-
-## General Stats
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/wakatime/?username=_N3m0&layout=compact&theme=great-gatsby&langs_count=8&custom_title=Stats)
