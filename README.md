@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi I'm Hamza NANAHA👋
+### Hi I'm Hamza NANAHA 👋
 ---
 
-* 🌍  I'm based in Toulouse
+I like to program game.
+
 * ✉️  You can contact me at [hamza.nanaha@hotmail.com](mailto:hamza.nanaha@hotmail.com)
 * 🚀  I'm currently student of [Bachelor in Computer Science specialized in data](https://www.univ-tlse3.fr/but-specialite-informatique)
 
@@ -26,7 +27,7 @@ You can learn more about me and what I do on my [personal website](https://www.n
 
 You can also see all the cool stuff that we do in my team [here](https://captainboulbi.github.io/).
 
-## My skills
+## Skills
 ---
 
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,linux,git,docker,java,py,html,css,php)
