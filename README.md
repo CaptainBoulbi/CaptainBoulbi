@@ -32,10 +32,10 @@ You can learn more about me and what I do on my [personal website](https://www.n
 some cool website :
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <a href="https://fruitpassion.fr/" target="blank">
+  <a href="https://fruitpassion.fr/" target="_blank">
     <img src="https://imgur.com/HFbc2iB.gif" alt="gif" width=81 height=31>
   </a>
-  <a href="https://n3m0.fr/" target="blank">
+  <a href="https://n3m0.fr/" target="_blank">
     <img src="https://imgur.com/He1fHJA.gif" title="gif" alt="gif" width=88 height=31>
   </a>
 </div>
