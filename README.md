@@ -5,7 +5,7 @@ I like to program game.
 
 * ✉️  You can contact me at [hamza.nanaha@hotmail.com](mailto:hamza.nanaha@hotmail.com)
 * 🚀  I'm currently student of [Bachelor in Computer Science specialized in data](https://www.univ-tlse3.fr/but-specialite-informatique)
-* [penger](https://penger.city/museum/pengers/Penger.png) Penger enjoyer
+* ![penger](https://penger.city/museum/pengers/Penger.png) Penger enjoyer
 
 ## Website
 
