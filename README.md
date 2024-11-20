@@ -26,3 +26,13 @@ You can learn more about me and what I do on my [personal website](https://www.n
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainBoulbi&theme=great-gatsby&langs_count=5" alt="CaptainBoulbi's GitHub most used languages"/>
 
   <img src="https://github-readme-stats.vercel.app/api?username=CaptainBoulbi&theme=great-gatsby&show_icons=true" alt="CaptainBoulbi's GitHub Stats" />
+
+---
+
+some cool website :
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+<a href="https://fruitpassion.fr/" target="_blank">
+    <img src="https://imgur.com/HFbc2iB.gif" alt="gif" width=81 height=31>
+</a>
+</div>
