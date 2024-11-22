@@ -50,4 +50,7 @@ some cool website :
   <a href="https://github.com/FruitPassion" target="_blank" style="margin-right:5px">
       <img src="https://imgur.com/CySPgsa.gif" alt="gif" width=88 height=31>
   </a>
+  <a href="https://github.com/bloouu" target="_blank" style="margin-right:5px">
+      <img src="https://imgur.com/3KtPlyF.gif" alt="gif" width=88 height=31>
+  </a>
 </div>
