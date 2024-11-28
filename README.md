@@ -29,7 +29,7 @@ You can learn more about me and what I do on my [personal website](https://www.n
 
 ---
 
-some cool website :
+some cool people :
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://fruitpassion.fr/" target="_blank" style="margin-right:5px">
