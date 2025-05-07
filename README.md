@@ -1,7 +1,18 @@
-![penger-scii](https://penger.party/penger.txt)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⠤⣤⣀⣀
+⠀⠀⠀⠀⠀⠀⠀⣤⣶⠿⠉⠉⠉⠀⠉⠉⠿⣶
+⠀⠀⠀⠀⠀⣀⣿⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠿⣀
+⠀⠀⠀⠀⠀⣿⠉⠀⠀⠀⠀⠶⣶⣶⠀⠀⠀⠀⣿
+⠀⠀⠀⠀⣿⠛⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣤⣤⣿⣿⣤⣀
+⠀⠀⠀⣀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠿⣿⣉⣉⠀⠀⠀⠀⠉⣶
+⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⣿⣿⣤⣤⣤⠛
+⠀⠀⠀⣿⠀⠀⠀⠀⠀⣀⣶⠶⠶⠿⠉⠉⠿⠿⣶
+⠀⠀⠀⣿⠀⠀⠀⠀⣤⣿⠉⠀⠀⠀⠀⠀⠀⠀⠛⣿
+⠀⠀⠀⣿⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⣿
+⠀⠀⠀⣿⣶⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⠛⣤⣤
+⣶⣿⠛⠛⠀⠛⠶⠶⣿⠶⠶⠶⠶⠶⠶⠶⠶⣛⣛⠛⠀⠀⠛⠿⣶
+⠉⠛⠒⣶⣤⣤⣶⠒⠛⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠒⣶⣤⣤⣶⠛
 
-## Me
----
+## About me
 
 * malice
 * i uz arch btw
@@ -9,7 +20,6 @@
 * ![penger](https://penger.city/museum/pengers/Penger.png) Penger enjoyer
 
 ## Stats
----
 
 [![wakatime](https://wakatime.com/badge/user/8410736e-40dc-46fa-b9d9-a5d64fae6a85.svg)](https://wakatime.com/@8410736e-40dc-46fa-b9d9-a5d64fae6a85)
 
