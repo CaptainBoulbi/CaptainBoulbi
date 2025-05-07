@@ -25,7 +25,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/8410736e-40dc-46fa-b9d9-a5d64fae6a85.svg)](https://wakatime.com/@8410736e-40dc-46fa-b9d9-a5d64fae6a85)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/wakatime/?username=_N3m0&layout=compact&theme=great-gatsby&langs_count=8&custom_title=Stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/wakatime/?username=_N3m0&layout=compact&theme=great-gatsby&langs_count=8&custom_title=Stats&v=2)
 
 ---
 
